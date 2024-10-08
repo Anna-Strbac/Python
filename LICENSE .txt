@@ -1,0 +1,12 @@
+MIT License
+
+Copyright (c) 2024 
+
+You can use, copy, modify, merge, publish, distribute, and sell this software for free. 
+You can also let others do the same, as long as you include this license notice in any 
+copies or significant parts of the software.
+
+The software is provided "as is", without any guarantees. There are no warranties, 
+either expressed or implied, about how well it works or that it will meet your needs. 
+If something goes wrong, the authors are not responsible for any claims, damages, 
+or other issues that arise from using this software.

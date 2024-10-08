@@ -1,0 +1,22 @@
+
+Självutvärdering
+
+1. Utmaningar och hantering
+Under projektets gång stötte jag på flera utmaningar:
+
+Datainhämtning: Jag hade initialt svårt att hitta gratis historisk data via ett API. För att lösa detta beslutade jag mig 
+för att använda CSV-filer med historisk data istället. Dessutom ville jag inte använda APIför att hämta ny data, 
+eftersom datan inte var densamma mellan olika källor. För att säkerställa konsekvens i datakällan använde jag 
+istället Selenium-biblioteket.
+
+Felhantering: Jag stötte på utmaningar när det gällde att implementera effektiv felhantering, eftersom många olika fel 
+uppstod under projektets gång. Det som hjälpte mig att hantera dessa fel var Pythons logging-modul, vilket underlättade 
+felsökningen och förbättrade kodens robusthet.
+
+2. Betygsbedömning
+Jag anser att jag bör få betyget Väl godkänd (VG). 
+Jag har implementerat ett automatiserat flöde, bearbetat datan, och inkluderat felhantering och automatiska tester.
+
+3. Övrigt
+Jag hade problem med att lämna in uppgiften i tid, då jag befann mig utomlands och saknade internetåtkomst. 
+Jag hoppas att detta inte kommer att orsaka några större problem i bedömningen av mitt arbete.
