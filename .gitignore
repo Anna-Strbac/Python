@@ -1,8 +1,6 @@
 # Logs and cache
 thresholds.json
 .pytest_cache/
-logs/
-master_main.py
 
 # Compiled Python files
 __pycache__/

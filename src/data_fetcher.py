@@ -38,7 +38,14 @@ CRYPTOS = [
 ]
 
 class NewDataLoader:
-    """Class responsible for downloading and processing cryptocurrency data."""
+    """
+    Class responsible for downloading and processing cryptocurrency data.
+
+    This class automates the downloading of historical cryptocurrency data from the CoinCodex website.
+    It manages the WebDriver, interacts with the website to export data, 
+    and processes the downloaded CSV files to filter and clean the data.
+    
+    """
 
     def __init__(self, download_folder=DOWNLOAD_FOLDER, time_limit=TIME_LIMIT, cryptos=CRYPTOS):
         """Initialize the NewDataLoader with specified parameters."""
@@ -197,7 +204,13 @@ class NewDataLoader:
 db_handler = DatabaseHandler()  # Make sure this class is properly defined
 
 class FetchedDataProcessor:
-    """A class to handle the entire process of fetching, filtering, and saving crypto data."""
+    """A class to handle the entire process of fetching, filtering, and saving crypto data.
+    
+    This class orchestrates the workflow of downloading cryptocurrency data, 
+    transforming it, and saving the processed data into a database. It utilizes 
+    the NewDataLoader class to retrieve the data and a database handler to save it.
+
+    """
 
     def __init__(self, loader):
         self.loader = loader

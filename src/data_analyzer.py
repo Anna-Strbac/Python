@@ -18,6 +18,18 @@ file_handler.setFormatter(formatter)
 logger.addHandler(file_handler)
 
 class DataAnalyzer:
+    """ 
+    A class to make calculations on cryptocurrency market data.
+    
+    Methods:
+    calculate_typical_price(): Calculates the typical price based on the open, high, low, and close prices.
+    calculate_vwap(): Calculates the Volume Weighted Average Price (VWAP) for each cryptocurrency.
+    determine_thresholds(percentile=98): Determines price change thresholds based on percentage changes.
+    clean_data(): Drops unnecessary columns from the DataFrame.
+    calculate_price_change(): Calculates daily price changes and percentage changes for each cryptocurrency.
+    detect_large_changes(thresholds, data_subset=None): Detects large changes in percentage based on the provided thresholds.
+    """
+    
     def __init__(self, df):
         if df is None or df.empty:
             raise ValueError("DataFrame cannot be None or empty.")
@@ -108,6 +120,16 @@ class DataAnalyzer:
 
    
 class PerformCalculations:
+    """
+    A class to perform calculations on cryptocurrency data, including master data and new data.
+
+    Methods:
+    calculate_masterdata(): Executes all necessary calculations on the master data, including typical price, VWAP, and thresholds.
+    save_thresholds(thresholds): Saves calculated thresholds to a JSON file for later use.
+    load_thresholds(): Loads thresholds from a JSON file to be used in analysis.
+    calculate_newdata(aggregated_data): Runs calculations on new data loaded from the database, detecting large changes on new data.
+    display_large_changes(large_changes, data_source): Displays rows where large changes were detected in the specified data source.
+    """
     def __init__(self, master_df, new_data_df=None):
         if master_df is None or master_df.empty:
             raise ValueError("Master DataFrame cannot be None or empty.")

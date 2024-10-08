@@ -17,6 +17,21 @@ logger.addHandler(file_handler)
 
 
 class DataCleaner:
+    
+    """
+    A class for cleaning and validating cryptocurrency data within a DataFrame.
+
+    This class provides methods to handle missing values, remove duplicates, 
+    and convert data formats to ensure the DataFrame is ready for analysis. 
+
+    Methods:
+        clean_data(): Main function to clean the DataFrame and handle various data issues.
+        remove_duplicates(): Remove any duplicate rows in the DataFrame.
+        validate_and_clean_data(): Validate the data formats, handle missing and erroneous values.
+        check_and_convert_formats(): Check and convert columns to appropriate numeric or date formats.
+        print_cleaned_data(): Print the cleaned DataFrame and total row count.
+        save_cleaned_data(): Save the cleaned DataFrame to a specified database.
+    """
     def __init__(self, df, numeric_columns=None, date_columns=None):
         self.df = df
         # Use provided numeric columns or default ones
@@ -155,6 +170,16 @@ class DataCleaner:
 
 
 class PerformCleaning:
+    """
+    A class for orchestrating the data cleaning process for a DataFrame.
+
+    This class utilizes the `DataCleaner` class to perform all necessary cleaning 
+    operations on a given DataFrame. It ensures that the DataFrame is valid before 
+    invoking the cleaning process, and it logs the results of the cleaning operation.
+
+    Methods:
+        clean_all(): Validates the input DataFrame and performs data cleaning using the DataCleaner class.
+    """
     def __init__(self, df):
         self.df = df
 
@@ -185,6 +210,12 @@ class DataFormatter:
     """
     A class to format numerical and percentage columns in a DataFrame.
     Formats percentage columns with a '%' sign and ensures numeric columns have four decimal places.
+    
+    Methods:
+    format_percentages(df): Formats percentage columns to strings with four decimal places followed by a '%' sign.
+    format_numerics(df): Formats numeric columns to strings with four decimal places.
+    format_date(df): Formats the date column to a standard string format (YYYY-MM-DD).
+    format_data(df): Applies all formatting functions to the DataFrame.
     """
     
     def __init__(self):
@@ -202,15 +233,6 @@ class DataFormatter:
         ]
         
     def format_percentages(self, df):
-        """
-        Format percentage columns to strings with four decimal places followed by a '%' sign.
-        
-        Parameters:
-        df (pd.DataFrame): The DataFrame to format.
-        
-        Returns:
-        pd.DataFrame: The DataFrame with formatted percentage columns.
-        """
         try:
             df[self.percentage_cols] = df[self.percentage_cols].applymap(lambda x: f"{x:.4f}%")
             logger.info("Formatted percentage columns.")
@@ -219,15 +241,6 @@ class DataFormatter:
         return df
 
     def format_numerics(self, df):
-        """
-        Format numeric columns to strings with four decimal places.
-        
-        Parameters:
-        df (pd.DataFrame): The DataFrame to format.
-        
-        Returns:
-        pd.DataFrame: The DataFrame with formatted numeric columns.
-        """
         try:
             df[self.numeric_cols] = df[self.numeric_cols].applymap(lambda x: f"{x:.4f}")
             logger.info("Formatted numeric columns.")
@@ -236,15 +249,6 @@ class DataFormatter:
         return df
 
     def format_date(self, df):
-        """
-        Format the date column to a string format.
-        
-        Parameters:
-        df (pd.DataFrame): The DataFrame to format.
-        
-        Returns:
-        pd.DataFrame: The DataFrame with formatted date column.
-        """
         try:
             df['Date'] = df['Date'].dt.strftime('%Y-%m-%d')
             logger.info("Formatted date column.")
@@ -253,15 +257,6 @@ class DataFormatter:
         return df
 
     def format_data(self, df):
-        """
-        Format the DataFrame by applying all formatting functions to the DataFrame.
-        
-        Parameters:
-        df (pd.DataFrame): The DataFrame to format.
-        
-        Returns:
-        pd.DataFrame: The formatted DataFrame.
-        """
         logger.info("Formatting DataFrame.")
         df = self.format_percentages(df)
         df = self.format_numerics(df)
