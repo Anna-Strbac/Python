@@ -1,0 +1,11 @@
+2024-10-08 13:16:00,068 - INFO - Initializing MasterDataLoader...
+2024-10-08 13:16:00,068 - INFO - Loading master data...
+2024-10-08 13:16:01,465 - INFO - Master data loaded and processed successfully.
+2024-10-08 13:16:01,468 - INFO - Master data loaded and processed successfully.
+2024-10-08 13:16:02,449 - INFO - Processed data saved to database at 'sqlite:///C:/Users/46704/Desktop/Kunskapskontroll 2 Python/Project/cryptocurrency_db.db' in table 'ohlcv_marketcap_data'.
+2024-10-08 13:16:02,882 - INFO - Master data loaded from the database successfully.
+2024-10-08 13:16:06,769 - INFO - Fetcher initialized.
+2024-10-08 13:16:06,772 - INFO - Fetching new data...
+2024-10-08 13:18:53,318 - INFO - New Data Loaded Successfully:
+2024-10-08 13:18:53,398 - INFO - New data cleaned successfully.
+2024-10-08 13:18:57,494 - INFO - Data aggregated successfully.

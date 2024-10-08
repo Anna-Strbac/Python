@@ -1,0 +1,26 @@
+2024-10-08 13:16:00,068 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\avalanche_2020-09-22_2024-10-08.csv with cryptocurrency name: avalanche
+2024-10-08 13:16:00,091 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\binance-coin_2017-08-16_2024-10-08.csv with cryptocurrency name: binance-coin
+2024-10-08 13:16:00,100 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\bitcoin-cash_2017-07-23_2024-10-08.csv with cryptocurrency name: bitcoin-cash
+2024-10-08 13:16:00,113 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\bitcoin_2010-07-17_2024-10-08.csv with cryptocurrency name: bitcoin
+2024-10-08 13:16:00,124 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\cardano_2017-10-01_2024-10-08.csv with cryptocurrency name: cardano
+2024-10-08 13:16:00,137 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\chainlink_2017-09-20_2024-10-08.csv with cryptocurrency name: chainlink
+2024-10-08 13:16:00,148 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\dogecoin_2013-12-15_2024-10-08.csv with cryptocurrency name: dogecoin
+2024-10-08 13:16:00,159 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\ethereum_2015-08-07_2024-10-08.csv with cryptocurrency name: ethereum
+2024-10-08 13:16:00,165 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\kaspa_2022-05-24_2024-10-08.csv with cryptocurrency name: kaspa
+2024-10-08 13:16:00,166 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\lido-staked-ether_2020-12-22_2024-10-08.csv with cryptocurrency name: lido-staked-ether
+2024-10-08 13:16:00,181 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\litecoin_2013-04-28_2024-10-08.csv with cryptocurrency name: litecoin
+2024-10-08 13:16:00,182 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\near-protocol_2020-10-14_2024-10-08.csv with cryptocurrency name: near-protocol
+2024-10-08 13:16:00,190 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\polkadot_2020-08-21_2024-10-08.csv with cryptocurrency name: polkadot
+2024-10-08 13:16:00,190 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\ripple_2013-08-04_2024-10-08.csv with cryptocurrency name: ripple
+2024-10-08 13:16:00,201 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\shiba-inu_2020-06-15_2024-10-08.csv with cryptocurrency name: shiba-inu
+2024-10-08 13:16:00,207 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\solana_2020-04-09_2024-10-08.csv with cryptocurrency name: solana
+2024-10-08 13:16:00,214 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\tether_2015-01-01_2024-10-08.csv with cryptocurrency name: tether
+2024-10-08 13:16:00,214 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\toncoin_2021-08-26_2024-10-08.csv with cryptocurrency name: toncoin
+2024-10-08 13:16:00,233 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\tron_2017-09-13_2024-10-08.csv with cryptocurrency name: tron
+2024-10-08 13:16:00,238 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\uniswap_2020-09-17_2024-10-08.csv with cryptocurrency name: uniswap
+2024-10-08 13:16:00,245 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\usd-coin_2018-10-08_2024-10-08.csv with cryptocurrency name: usd-coin
+2024-10-08 13:16:00,254 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\weth_2018-01-14_2024-10-08.csv with cryptocurrency name: weth
+2024-10-08 13:16:00,263 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\wrapped-bitcoin_2019-01-31_2024-10-08.csv with cryptocurrency name: wrapped-bitcoin
+2024-10-08 13:16:00,269 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\wrapped-steth_2021-10-07_2024-10-08.csv with cryptocurrency name: wrapped-steth
+2024-10-08 13:16:00,269 - INFO - Successfully loaded 24 CSV files.
+2024-10-08 13:16:00,277 - INFO - Successfully aggregated data into a single DataFrame with 53565 records.

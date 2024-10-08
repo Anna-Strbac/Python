@@ -1,0 +1,104 @@
+2024-10-08 13:16:08,286 - INFO - WebDriver created successfully.
+2024-10-08 13:16:16,102 - INFO - Export button clicked for avalanche.
+2024-10-08 13:16:16,103 - INFO - Found 1 recent CSV files.
+2024-10-08 13:16:23,436 - INFO - Export button clicked for binance-coin.
+2024-10-08 13:16:23,436 - INFO - Found 2 recent CSV files.
+2024-10-08 13:16:30,357 - INFO - Export button clicked for bitcoin.
+2024-10-08 13:16:30,361 - INFO - Found 3 recent CSV files.
+2024-10-08 13:16:37,105 - INFO - Export button clicked for bitcoin-cash.
+2024-10-08 13:16:37,107 - INFO - Found 4 recent CSV files.
+2024-10-08 13:16:43,394 - INFO - Export button clicked for cardano.
+2024-10-08 13:16:43,398 - INFO - Found 5 recent CSV files.
+2024-10-08 13:16:49,717 - INFO - Export button clicked for chainlink.
+2024-10-08 13:16:49,719 - INFO - Found 6 recent CSV files.
+2024-10-08 13:16:55,850 - INFO - Export button clicked for dogecoin.
+2024-10-08 13:16:55,854 - INFO - Found 7 recent CSV files.
+2024-10-08 13:17:01,794 - INFO - Export button clicked for ethereum.
+2024-10-08 13:17:01,796 - INFO - Found 8 recent CSV files.
+2024-10-08 13:17:08,705 - INFO - Export button clicked for kaspa.
+2024-10-08 13:17:08,707 - INFO - Found 9 recent CSV files.
+2024-10-08 13:17:15,057 - INFO - Export button clicked for lido-staked-ether.
+2024-10-08 13:17:15,065 - INFO - Found 10 recent CSV files.
+2024-10-08 13:17:23,223 - INFO - Export button clicked for litecoin.
+2024-10-08 13:17:23,224 - INFO - Found 11 recent CSV files.
+2024-10-08 13:17:29,680 - INFO - Export button clicked for near-protocol.
+2024-10-08 13:17:29,683 - INFO - Found 12 recent CSV files.
+2024-10-08 13:17:36,022 - INFO - Export button clicked for polkadot.
+2024-10-08 13:17:36,025 - INFO - Found 13 recent CSV files.
+2024-10-08 13:17:42,840 - INFO - Export button clicked for ripple.
+2024-10-08 13:17:42,842 - INFO - Found 14 recent CSV files.
+2024-10-08 13:17:49,190 - INFO - Export button clicked for shiba-inu.
+2024-10-08 13:17:49,193 - INFO - Found 15 recent CSV files.
+2024-10-08 13:17:55,740 - INFO - Export button clicked for solana.
+2024-10-08 13:17:55,744 - INFO - Found 16 recent CSV files.
+2024-10-08 13:18:02,089 - INFO - Export button clicked for tether.
+2024-10-08 13:18:02,092 - INFO - Found 17 recent CSV files.
+2024-10-08 13:18:09,037 - INFO - Export button clicked for toncoin.
+2024-10-08 13:18:09,042 - INFO - Found 18 recent CSV files.
+2024-10-08 13:18:15,892 - INFO - Export button clicked for tron.
+2024-10-08 13:18:15,895 - INFO - Found 19 recent CSV files.
+2024-10-08 13:18:23,520 - INFO - Export button clicked for uniswap.
+2024-10-08 13:18:23,523 - INFO - Found 20 recent CSV files.
+2024-10-08 13:18:31,807 - INFO - Export button clicked for usd-coin.
+2024-10-08 13:18:31,810 - INFO - Found 21 recent CSV files.
+2024-10-08 13:18:38,124 - INFO - Export button clicked for weth.
+2024-10-08 13:18:38,130 - INFO - Found 22 recent CSV files.
+2024-10-08 13:18:44,304 - INFO - Export button clicked for wrapped-bitcoin.
+2024-10-08 13:18:44,307 - INFO - Found 23 recent CSV files.
+2024-10-08 13:18:50,561 - INFO - Export button clicked for wrapped-steth.
+2024-10-08 13:18:50,568 - INFO - Found 24 recent CSV files.
+2024-10-08 13:18:50,568 - INFO - Found 24 recent CSV files.
+2024-10-08 13:18:50,579 - INFO - Filtered data from C:\Users\46704\Downloads\avalanche_2024-09-08_2024-10-08.csv for date 2024-10-07.
+2024-10-08 13:18:50,579 - INFO - Filtered data from C:\Users\46704\Downloads\binance-coin_2024-09-08_2024-10-08.csv for date 2024-10-07.
+2024-10-08 13:18:50,597 - INFO - Filtered data from C:\Users\46704\Downloads\bitcoin-cash_2024-09-08_2024-10-08.csv for date 2024-10-07.
+2024-10-08 13:18:50,600 - INFO - Filtered data from C:\Users\46704\Downloads\bitcoin_2024-09-08_2024-10-08.csv for date 2024-10-07.
+2024-10-08 13:18:50,611 - INFO - Filtered data from C:\Users\46704\Downloads\cardano_2024-09-08_2024-10-08.csv for date 2024-10-07.
+2024-10-08 13:18:50,642 - INFO - Filtered data from C:\Users\46704\Downloads\chainlink_2024-09-08_2024-10-08.csv for date 2024-10-07.
+2024-10-08 13:18:50,642 - INFO - Filtered data from C:\Users\46704\Downloads\dogecoin_2024-09-08_2024-10-08.csv for date 2024-10-07.
+2024-10-08 13:18:50,642 - INFO - Filtered data from C:\Users\46704\Downloads\ethereum_2024-09-08_2024-10-08.csv for date 2024-10-07.
+2024-10-08 13:18:50,689 - INFO - Filtered data from C:\Users\46704\Downloads\kaspa_2024-09-08_2024-10-08.csv for date 2024-10-07.
+2024-10-08 13:18:50,694 - INFO - Filtered data from C:\Users\46704\Downloads\lido-staked-ether_2024-09-08_2024-10-08.csv for date 2024-10-07.
+2024-10-08 13:18:50,697 - INFO - Filtered data from C:\Users\46704\Downloads\litecoin_2024-09-08_2024-10-08.csv for date 2024-10-07.
+2024-10-08 13:18:50,709 - INFO - Filtered data from C:\Users\46704\Downloads\near-protocol_2024-09-08_2024-10-08.csv for date 2024-10-07.
+2024-10-08 13:18:50,711 - INFO - Filtered data from C:\Users\46704\Downloads\polkadot_2024-09-08_2024-10-08.csv for date 2024-10-07.
+2024-10-08 13:18:50,711 - INFO - Filtered data from C:\Users\46704\Downloads\ripple_2024-09-08_2024-10-08.csv for date 2024-10-07.
+2024-10-08 13:18:50,725 - INFO - Filtered data from C:\Users\46704\Downloads\shiba-inu_2024-09-08_2024-10-08.csv for date 2024-10-07.
+2024-10-08 13:18:50,753 - INFO - Filtered data from C:\Users\46704\Downloads\solana_2024-09-08_2024-10-08.csv for date 2024-10-07.
+2024-10-08 13:18:50,753 - INFO - Filtered data from C:\Users\46704\Downloads\tether_2024-09-08_2024-10-08.csv for date 2024-10-07.
+2024-10-08 13:18:50,769 - INFO - Filtered data from C:\Users\46704\Downloads\toncoin_2024-09-08_2024-10-08.csv for date 2024-10-07.
+2024-10-08 13:18:50,769 - INFO - Filtered data from C:\Users\46704\Downloads\tron_2024-09-08_2024-10-08.csv for date 2024-10-07.
+2024-10-08 13:18:50,769 - INFO - Filtered data from C:\Users\46704\Downloads\uniswap_2024-09-08_2024-10-08.csv for date 2024-10-07.
+2024-10-08 13:18:50,785 - INFO - Filtered data from C:\Users\46704\Downloads\usd-coin_2024-09-08_2024-10-08.csv for date 2024-10-07.
+2024-10-08 13:18:50,785 - INFO - Filtered data from C:\Users\46704\Downloads\weth_2024-09-08_2024-10-08.csv for date 2024-10-07.
+2024-10-08 13:18:50,801 - INFO - Filtered data from C:\Users\46704\Downloads\wrapped-bitcoin_2024-09-08_2024-10-08.csv for date 2024-10-07.
+2024-10-08 13:18:50,801 - INFO - Filtered data from C:\Users\46704\Downloads\wrapped-steth_2024-09-08_2024-10-08.csv for date 2024-10-07.
+2024-10-08 13:18:50,801 - INFO - Total rows combined: 24
+2024-10-08 13:18:50,801 - INFO - Deleted file: C:\Users\46704\Downloads\avalanche_2024-09-08_2024-10-08.csv
+2024-10-08 13:18:50,801 - INFO - Deleted file: C:\Users\46704\Downloads\binance-coin_2024-09-08_2024-10-08.csv
+2024-10-08 13:18:50,818 - INFO - Deleted file: C:\Users\46704\Downloads\bitcoin-cash_2024-09-08_2024-10-08.csv
+2024-10-08 13:18:50,821 - INFO - Deleted file: C:\Users\46704\Downloads\bitcoin_2024-09-08_2024-10-08.csv
+2024-10-08 13:18:50,822 - INFO - Deleted file: C:\Users\46704\Downloads\cardano_2024-09-08_2024-10-08.csv
+2024-10-08 13:18:50,825 - INFO - Deleted file: C:\Users\46704\Downloads\chainlink_2024-09-08_2024-10-08.csv
+2024-10-08 13:18:50,825 - INFO - Deleted file: C:\Users\46704\Downloads\dogecoin_2024-09-08_2024-10-08.csv
+2024-10-08 13:18:50,832 - INFO - Deleted file: C:\Users\46704\Downloads\ethereum_2024-09-08_2024-10-08.csv
+2024-10-08 13:18:50,832 - INFO - Deleted file: C:\Users\46704\Downloads\kaspa_2024-09-08_2024-10-08.csv
+2024-10-08 13:18:50,841 - INFO - Deleted file: C:\Users\46704\Downloads\lido-staked-ether_2024-09-08_2024-10-08.csv
+2024-10-08 13:18:50,841 - INFO - Deleted file: C:\Users\46704\Downloads\litecoin_2024-09-08_2024-10-08.csv
+2024-10-08 13:18:50,841 - INFO - Deleted file: C:\Users\46704\Downloads\near-protocol_2024-09-08_2024-10-08.csv
+2024-10-08 13:18:50,841 - INFO - Deleted file: C:\Users\46704\Downloads\polkadot_2024-09-08_2024-10-08.csv
+2024-10-08 13:18:50,841 - INFO - Deleted file: C:\Users\46704\Downloads\ripple_2024-09-08_2024-10-08.csv
+2024-10-08 13:18:50,857 - INFO - Deleted file: C:\Users\46704\Downloads\shiba-inu_2024-09-08_2024-10-08.csv
+2024-10-08 13:18:50,857 - INFO - Deleted file: C:\Users\46704\Downloads\solana_2024-09-08_2024-10-08.csv
+2024-10-08 13:18:50,857 - INFO - Deleted file: C:\Users\46704\Downloads\tether_2024-09-08_2024-10-08.csv
+2024-10-08 13:18:50,873 - INFO - Deleted file: C:\Users\46704\Downloads\toncoin_2024-09-08_2024-10-08.csv
+2024-10-08 13:18:50,873 - INFO - Deleted file: C:\Users\46704\Downloads\tron_2024-09-08_2024-10-08.csv
+2024-10-08 13:18:50,873 - INFO - Deleted file: C:\Users\46704\Downloads\uniswap_2024-09-08_2024-10-08.csv
+2024-10-08 13:18:50,873 - INFO - Deleted file: C:\Users\46704\Downloads\usd-coin_2024-09-08_2024-10-08.csv
+2024-10-08 13:18:50,873 - INFO - Deleted file: C:\Users\46704\Downloads\weth_2024-09-08_2024-10-08.csv
+2024-10-08 13:18:50,889 - INFO - Deleted file: C:\Users\46704\Downloads\wrapped-bitcoin_2024-09-08_2024-10-08.csv
+2024-10-08 13:18:50,889 - INFO - Deleted file: C:\Users\46704\Downloads\wrapped-steth_2024-09-08_2024-10-08.csv
+2024-10-08 13:18:50,889 - INFO - Combined DataFrame successfully created.
+2024-10-08 13:18:53,275 - INFO - WebDriver closed.
+2024-10-08 13:18:53,277 - INFO - Renamed 'Start' column to 'Date'.
+2024-10-08 13:18:53,278 - INFO - Dropped 'End' column.
+2024-10-08 13:18:53,307 - INFO - Transformed DataFrame saved to database successfully.

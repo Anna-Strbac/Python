@@ -1,0 +1,187 @@
+2024-10-08 13:16:00,068 - INFO - Starting the data loading process...
+2024-10-08 13:16:00,068 - INFO - Initializing MasterDataLoader...
+2024-10-08 13:16:00,068 - INFO - DatabaseHandler initialized with database URL: C:\Users\46704\Desktop\Kunskapskontroll 2 Python\Project\cryptocurrency_db.db
+2024-10-08 13:16:00,068 - INFO - DatabaseHandler initialized with database URL: C:\Users\46704\Desktop\Kunskapskontroll 2 Python\Project\sqlite:\C:\Users\46704\Desktop\Kunskapskontroll 2 Python\Project\cryptocurrency_db.db
+2024-10-08 13:16:00,068 - INFO - Loading master data...
+2024-10-08 13:16:00,068 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\avalanche_2020-09-22_2024-10-08.csv with cryptocurrency name: avalanche
+2024-10-08 13:16:00,091 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\binance-coin_2017-08-16_2024-10-08.csv with cryptocurrency name: binance-coin
+2024-10-08 13:16:00,100 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\bitcoin-cash_2017-07-23_2024-10-08.csv with cryptocurrency name: bitcoin-cash
+2024-10-08 13:16:00,113 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\bitcoin_2010-07-17_2024-10-08.csv with cryptocurrency name: bitcoin
+2024-10-08 13:16:00,124 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\cardano_2017-10-01_2024-10-08.csv with cryptocurrency name: cardano
+2024-10-08 13:16:00,137 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\chainlink_2017-09-20_2024-10-08.csv with cryptocurrency name: chainlink
+2024-10-08 13:16:00,148 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\dogecoin_2013-12-15_2024-10-08.csv with cryptocurrency name: dogecoin
+2024-10-08 13:16:00,159 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\ethereum_2015-08-07_2024-10-08.csv with cryptocurrency name: ethereum
+2024-10-08 13:16:00,165 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\kaspa_2022-05-24_2024-10-08.csv with cryptocurrency name: kaspa
+2024-10-08 13:16:00,166 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\lido-staked-ether_2020-12-22_2024-10-08.csv with cryptocurrency name: lido-staked-ether
+2024-10-08 13:16:00,181 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\litecoin_2013-04-28_2024-10-08.csv with cryptocurrency name: litecoin
+2024-10-08 13:16:00,182 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\near-protocol_2020-10-14_2024-10-08.csv with cryptocurrency name: near-protocol
+2024-10-08 13:16:00,190 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\polkadot_2020-08-21_2024-10-08.csv with cryptocurrency name: polkadot
+2024-10-08 13:16:00,190 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\ripple_2013-08-04_2024-10-08.csv with cryptocurrency name: ripple
+2024-10-08 13:16:00,201 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\shiba-inu_2020-06-15_2024-10-08.csv with cryptocurrency name: shiba-inu
+2024-10-08 13:16:00,207 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\solana_2020-04-09_2024-10-08.csv with cryptocurrency name: solana
+2024-10-08 13:16:00,214 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\tether_2015-01-01_2024-10-08.csv with cryptocurrency name: tether
+2024-10-08 13:16:00,214 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\toncoin_2021-08-26_2024-10-08.csv with cryptocurrency name: toncoin
+2024-10-08 13:16:00,233 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\tron_2017-09-13_2024-10-08.csv with cryptocurrency name: tron
+2024-10-08 13:16:00,238 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\uniswap_2020-09-17_2024-10-08.csv with cryptocurrency name: uniswap
+2024-10-08 13:16:00,245 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\usd-coin_2018-10-08_2024-10-08.csv with cryptocurrency name: usd-coin
+2024-10-08 13:16:00,254 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\weth_2018-01-14_2024-10-08.csv with cryptocurrency name: weth
+2024-10-08 13:16:00,263 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\wrapped-bitcoin_2019-01-31_2024-10-08.csv with cryptocurrency name: wrapped-bitcoin
+2024-10-08 13:16:00,269 - INFO - Loaded CSV file: C:/Users/46704/Desktop/Kunskapskontroll 2 Python/CSV\wrapped-steth_2021-10-07_2024-10-08.csv with cryptocurrency name: wrapped-steth
+2024-10-08 13:16:00,269 - INFO - Successfully loaded 24 CSV files.
+2024-10-08 13:16:00,277 - INFO - Successfully aggregated data into a single DataFrame with 53565 records.
+2024-10-08 13:16:00,277 - INFO - DatabaseHandler initialized with database URL: C:\Users\46704\Desktop\Kunskapskontroll 2 Python\Project\cryptocurrency_db.db
+2024-10-08 13:16:00,281 - INFO - Validating and cleaning data.
+2024-10-08 13:16:00,292 - INFO - Replaced negative values in 'Market Cap' with NA.
+2024-10-08 13:16:00,292 - INFO - Rows set to NA in 'Volume' during cleaning: 1514
+2024-10-08 13:16:00,325 - INFO - Rows forward filled in 'Volume' column: 2
+2024-10-08 13:16:00,331 - INFO - Column 'Market Cap' successfully converted to numeric format.
+2024-10-08 13:16:00,331 - INFO - Column 'Volume' is already in numeric format.
+2024-10-08 13:16:00,331 - INFO - Column 'Open' is already in numeric format.
+2024-10-08 13:16:00,331 - INFO - Column 'High' is already in numeric format.
+2024-10-08 13:16:00,332 - INFO - Column 'Low' is already in numeric format.
+2024-10-08 13:16:00,332 - INFO - Column 'Close' is already in numeric format.
+2024-10-08 13:16:00,332 - INFO - Column 'Date' is already in date format.
+2024-10-08 13:16:00,356 - INFO - No duplicate rows found.
+2024-10-08 13:16:00,356 - INFO - Data cleaning completed.
+2024-10-08 13:16:00,356 - INFO - Rows set to NA in 'Volume': 1514
+2024-10-08 13:16:00,372 - INFO - Rows forward filled in 'Volume': 2
+2024-10-08 13:16:01,051 - INFO - Data saved to table 'ohlcv_marketcap_data' successfully in 'append' mode.
+2024-10-08 13:16:01,051 - INFO - Cleaned data successfully saved to the database.
+2024-10-08 13:16:01,051 - INFO - Cleaning completed successfully.
+2024-10-08 13:16:01,051 - INFO - DatabaseHandler initialized with database URL: C:\Users\46704\Desktop\Kunskapskontroll 2 Python\Project\sqlite:\"C:\Users\46704\Desktop\Kunskapskontroll 2 Python\Project\cryptocurrency_db.db
+2024-10-08 13:16:01,063 - INFO - Calculated Typical Price.
+2024-10-08 13:16:01,177 - INFO - Calculated VWAP for each cryptocurrency.
+2024-10-08 13:16:01,177 - INFO - Determining price change thresholds at the 98th percentile.
+2024-10-08 13:16:01,177 - INFO - Threshold for avalanche - Open_Pct_Change: 15.89
+2024-10-08 13:16:01,195 - INFO - Threshold for avalanche - High_Pct_Change: 13.50
+2024-10-08 13:16:01,197 - INFO - Threshold for avalanche - Low_Pct_Change: 14.30
+2024-10-08 13:16:01,197 - INFO - Threshold for avalanche - Close_Pct_Change: 16.28
+2024-10-08 13:16:01,198 - INFO - Threshold for avalanche - Volume_Pct_Change: 93.11
+2024-10-08 13:16:01,203 - INFO - Threshold for binance-coin - Open_Pct_Change: 13.43
+2024-10-08 13:16:01,203 - INFO - Threshold for binance-coin - High_Pct_Change: 12.06
+2024-10-08 13:16:01,205 - INFO - Threshold for binance-coin - Low_Pct_Change: 11.19
+2024-10-08 13:16:01,205 - INFO - Threshold for binance-coin - Close_Pct_Change: 13.28
+2024-10-08 13:16:01,207 - INFO - Threshold for binance-coin - Volume_Pct_Change: 86.24
+2024-10-08 13:16:01,210 - INFO - Threshold for bitcoin - Open_Pct_Change: 11.69
+2024-10-08 13:16:01,212 - INFO - Threshold for bitcoin - High_Pct_Change: 11.70
+2024-10-08 13:16:01,214 - INFO - Threshold for bitcoin - Low_Pct_Change: 11.69
+2024-10-08 13:16:01,214 - INFO - Threshold for bitcoin - Close_Pct_Change: 11.79
+2024-10-08 13:16:01,215 - INFO - Threshold for bitcoin - Volume_Pct_Change: 84.60
+2024-10-08 13:16:01,219 - INFO - Threshold for bitcoin-cash - Open_Pct_Change: 16.11
+2024-10-08 13:16:01,221 - INFO - Threshold for bitcoin-cash - High_Pct_Change: 14.58
+2024-10-08 13:16:01,221 - INFO - Threshold for bitcoin-cash - Low_Pct_Change: 13.81
+2024-10-08 13:16:01,222 - INFO - Threshold for bitcoin-cash - Close_Pct_Change: 15.85
+2024-10-08 13:16:01,224 - INFO - Threshold for bitcoin-cash - Volume_Pct_Change: 100.56
+2024-10-08 13:16:01,229 - INFO - Threshold for cardano - Open_Pct_Change: 15.24
+2024-10-08 13:16:01,229 - INFO - Threshold for cardano - High_Pct_Change: 14.05
+2024-10-08 13:16:01,229 - INFO - Threshold for cardano - Low_Pct_Change: 14.09
+2024-10-08 13:16:01,229 - INFO - Threshold for cardano - Close_Pct_Change: 15.25
+2024-10-08 13:16:01,229 - INFO - Threshold for cardano - Volume_Pct_Change: 110.53
+2024-10-08 13:16:01,240 - INFO - Threshold for chainlink - Open_Pct_Change: 16.11
+2024-10-08 13:16:01,240 - INFO - Threshold for chainlink - High_Pct_Change: 15.79
+2024-10-08 13:16:01,240 - INFO - Threshold for chainlink - Low_Pct_Change: 14.40
+2024-10-08 13:16:01,244 - INFO - Threshold for chainlink - Close_Pct_Change: 15.75
+2024-10-08 13:16:01,246 - INFO - Threshold for chainlink - Volume_Pct_Change: 121.99
+2024-10-08 13:16:01,250 - INFO - Threshold for dogecoin - Open_Pct_Change: 19.01
+2024-10-08 13:16:01,250 - INFO - Threshold for dogecoin - High_Pct_Change: 19.73
+2024-10-08 13:16:01,254 - INFO - Threshold for dogecoin - Low_Pct_Change: 16.77
+2024-10-08 13:16:01,254 - INFO - Threshold for dogecoin - Close_Pct_Change: 18.80
+2024-10-08 13:16:01,257 - INFO - Threshold for dogecoin - Volume_Pct_Change: 177.89
+2024-10-08 13:16:01,261 - INFO - Threshold for ethereum - Open_Pct_Change: 14.12
+2024-10-08 13:16:01,261 - INFO - Threshold for ethereum - High_Pct_Change: 14.01
+2024-10-08 13:16:01,261 - INFO - Threshold for ethereum - Low_Pct_Change: 13.11
+2024-10-08 13:16:01,261 - INFO - Threshold for ethereum - Close_Pct_Change: 14.10
+2024-10-08 13:16:01,261 - INFO - Threshold for ethereum - Volume_Pct_Change: 112.76
+2024-10-08 13:16:01,272 - INFO - Threshold for kaspa - Open_Pct_Change: 22.71
+2024-10-08 13:16:01,272 - INFO - Threshold for kaspa - High_Pct_Change: 25.07
+2024-10-08 13:16:01,272 - INFO - Threshold for kaspa - Low_Pct_Change: 19.99
+2024-10-08 13:16:01,272 - INFO - Threshold for kaspa - Close_Pct_Change: 23.30
+2024-10-08 13:16:01,272 - INFO - Threshold for kaspa - Volume_Pct_Change: 139.63
+2024-10-08 13:16:01,272 - INFO - Threshold for lido-staked-ether - Open_Pct_Change: 10.07
+2024-10-08 13:16:01,272 - INFO - Threshold for lido-staked-ether - High_Pct_Change: 8.38
+2024-10-08 13:16:01,272 - INFO - Threshold for lido-staked-ether - Low_Pct_Change: 10.83
+2024-10-08 13:16:01,283 - INFO - Threshold for lido-staked-ether - Close_Pct_Change: 9.83
+2024-10-08 13:16:01,286 - INFO - Threshold for lido-staked-ether - Volume_Pct_Change: 432.26
+2024-10-08 13:16:01,287 - INFO - Threshold for litecoin - Open_Pct_Change: 13.41
+2024-10-08 13:16:01,287 - INFO - Threshold for litecoin - High_Pct_Change: 13.27
+2024-10-08 13:16:01,287 - INFO - Threshold for litecoin - Low_Pct_Change: 12.67
+2024-10-08 13:16:01,287 - INFO - Threshold for litecoin - Close_Pct_Change: 13.24
+2024-10-08 13:16:01,287 - INFO - Threshold for litecoin - Volume_Pct_Change: 124.83
+2024-10-08 13:16:01,300 - INFO - Threshold for near-protocol - Open_Pct_Change: 16.13
+2024-10-08 13:16:01,302 - INFO - Threshold for near-protocol - High_Pct_Change: 17.21
+2024-10-08 13:16:01,305 - INFO - Threshold for near-protocol - Low_Pct_Change: 14.53
+2024-10-08 13:16:01,305 - INFO - Threshold for near-protocol - Close_Pct_Change: 16.20
+2024-10-08 13:16:01,305 - INFO - Threshold for near-protocol - Volume_Pct_Change: 120.45
+2024-10-08 13:16:01,305 - INFO - Threshold for polkadot - Open_Pct_Change: 13.13
+2024-10-08 13:16:01,318 - INFO - Threshold for polkadot - High_Pct_Change: 11.18
+2024-10-08 13:16:01,320 - INFO - Threshold for polkadot - Low_Pct_Change: 12.90
+2024-10-08 13:16:01,320 - INFO - Threshold for polkadot - Close_Pct_Change: 12.37
+2024-10-08 13:16:01,320 - INFO - Threshold for polkadot - Volume_Pct_Change: 90.74
+2024-10-08 13:16:01,320 - INFO - Threshold for ripple - Open_Pct_Change: 4.54
+2024-10-08 13:16:01,320 - INFO - Threshold for ripple - High_Pct_Change: 5.81
+2024-10-08 13:16:01,320 - INFO - Threshold for ripple - Low_Pct_Change: 4.01
+2024-10-08 13:16:01,320 - INFO - Threshold for ripple - Close_Pct_Change: 4.79
+2024-10-08 13:16:01,320 - INFO - Threshold for ripple - Volume_Pct_Change: 65.88
+2024-10-08 13:16:01,335 - INFO - Threshold for shiba-inu - Open_Pct_Change: 31.55
+2024-10-08 13:16:01,335 - INFO - Threshold for shiba-inu - High_Pct_Change: 35.38
+2024-10-08 13:16:01,340 - INFO - Threshold for shiba-inu - Low_Pct_Change: 24.38
+2024-10-08 13:16:01,340 - INFO - Threshold for shiba-inu - Close_Pct_Change: 31.79
+2024-10-08 13:16:01,340 - INFO - Threshold for shiba-inu - Volume_Pct_Change: 413.20
+2024-10-08 13:16:01,346 - INFO - Threshold for solana - Open_Pct_Change: 16.78
+2024-10-08 13:16:01,346 - INFO - Threshold for solana - High_Pct_Change: 16.50
+2024-10-08 13:16:01,346 - INFO - Threshold for solana - Low_Pct_Change: 15.37
+2024-10-08 13:16:01,346 - INFO - Threshold for solana - Close_Pct_Change: 16.54
+2024-10-08 13:16:01,346 - INFO - Threshold for solana - Volume_Pct_Change: 122.96
+2024-10-08 13:16:01,353 - INFO - Threshold for tether - Open_Pct_Change: 0.99
+2024-10-08 13:16:01,353 - INFO - Threshold for tether - High_Pct_Change: 0.99
+2024-10-08 13:16:01,353 - INFO - Threshold for tether - Low_Pct_Change: 1.02
+2024-10-08 13:16:01,353 - INFO - Threshold for tether - Close_Pct_Change: 0.99
+2024-10-08 13:16:01,353 - INFO - Threshold for tether - Volume_Pct_Change: 220.68
+2024-10-08 13:16:01,367 - INFO - Threshold for toncoin - Open_Pct_Change: 14.08
+2024-10-08 13:16:01,367 - INFO - Threshold for toncoin - High_Pct_Change: 15.36
+2024-10-08 13:16:01,367 - INFO - Threshold for toncoin - Low_Pct_Change: 15.21
+2024-10-08 13:16:01,367 - INFO - Threshold for toncoin - Close_Pct_Change: 14.78
+2024-10-08 13:16:01,367 - INFO - Threshold for toncoin - Volume_Pct_Change: 157.90
+2024-10-08 13:16:01,376 - INFO - Threshold for tron - Open_Pct_Change: 15.00
+2024-10-08 13:16:01,376 - INFO - Threshold for tron - High_Pct_Change: 16.12
+2024-10-08 13:16:01,378 - INFO - Threshold for tron - Low_Pct_Change: 13.94
+2024-10-08 13:16:01,378 - INFO - Threshold for tron - Close_Pct_Change: 15.17
+2024-10-08 13:16:01,379 - INFO - Threshold for tron - Volume_Pct_Change: 91.51
+2024-10-08 13:16:01,383 - INFO - Threshold for uniswap - Open_Pct_Change: 14.72
+2024-10-08 13:16:01,383 - INFO - Threshold for uniswap - High_Pct_Change: 12.53
+2024-10-08 13:16:01,383 - INFO - Threshold for uniswap - Low_Pct_Change: 13.77
+2024-10-08 13:16:01,383 - INFO - Threshold for uniswap - Close_Pct_Change: 14.50
+2024-10-08 13:16:01,383 - INFO - Threshold for uniswap - Volume_Pct_Change: 95.52
+2024-10-08 13:16:01,383 - INFO - Threshold for usd-coin - Open_Pct_Change: 0.80
+2024-10-08 13:16:01,383 - INFO - Threshold for usd-coin - High_Pct_Change: 1.03
+2024-10-08 13:16:01,383 - INFO - Threshold for usd-coin - Low_Pct_Change: 0.97
+2024-10-08 13:16:01,383 - INFO - Threshold for usd-coin - Close_Pct_Change: 0.78
+2024-10-08 13:16:01,383 - INFO - Threshold for usd-coin - Volume_Pct_Change: 108.56
+2024-10-08 13:16:01,398 - INFO - Threshold for weth - Open_Pct_Change: 11.05
+2024-10-08 13:16:01,398 - INFO - Threshold for weth - High_Pct_Change: 11.79
+2024-10-08 13:16:01,401 - INFO - Threshold for weth - Low_Pct_Change: 14.00
+2024-10-08 13:16:01,401 - INFO - Threshold for weth - Close_Pct_Change: 10.68
+2024-10-08 13:16:01,403 - INFO - Threshold for weth - Volume_Pct_Change: 275.16
+2024-10-08 13:16:01,406 - INFO - Threshold for wrapped-bitcoin - Open_Pct_Change: 8.72
+2024-10-08 13:16:01,408 - INFO - Threshold for wrapped-bitcoin - High_Pct_Change: 8.45
+2024-10-08 13:16:01,408 - INFO - Threshold for wrapped-bitcoin - Low_Pct_Change: 8.78
+2024-10-08 13:16:01,410 - INFO - Threshold for wrapped-bitcoin - Close_Pct_Change: 8.85
+2024-10-08 13:16:01,410 - INFO - Threshold for wrapped-bitcoin - Volume_Pct_Change: 152.39
+2024-10-08 13:16:01,414 - INFO - Threshold for wrapped-steth - Open_Pct_Change: 8.06
+2024-10-08 13:16:01,414 - INFO - Threshold for wrapped-steth - High_Pct_Change: 7.92
+2024-10-08 13:16:01,416 - INFO - Threshold for wrapped-steth - Low_Pct_Change: 9.85
+2024-10-08 13:16:01,416 - INFO - Threshold for wrapped-steth - Close_Pct_Change: 7.91
+2024-10-08 13:16:01,418 - INFO - Threshold for wrapped-steth - Volume_Pct_Change: 853.47
+2024-10-08 13:16:01,419 - INFO - Thresholds saved to 'thresholds.json'.
+2024-10-08 13:16:01,465 - INFO - Dropped unnecessary columns from the DataFrame.
+2024-10-08 13:16:01,465 - INFO - All calculations performed successfully.
+2024-10-08 13:16:01,465 - INFO - Master data loaded and processed successfully.
+2024-10-08 13:16:01,468 - INFO - Master data loaded and processed successfully.
+2024-10-08 13:16:02,449 - INFO - Data saved to table 'ohlcv_marketcap_data' successfully in 'replace' mode.
+2024-10-08 13:16:02,449 - INFO - Processed data saved to database at 'sqlite:///C:/Users/46704/Desktop/Kunskapskontroll 2 Python/Project/cryptocurrency_db.db' in table 'ohlcv_marketcap_data'.
+2024-10-08 13:16:02,882 - INFO - Data loaded from table 'ohlcv_marketcap_data'.
+2024-10-08 13:16:02,882 - INFO - Master data loaded from the database successfully.
+2024-10-08 13:16:02,882 - INFO - Master data loaded successfully.
+2024-10-08 13:16:02,882 - INFO - DatabaseHandler initialized with database URL: C:\Users\46704\Desktop\Kunskapskontroll 2 Python\Project\cryptocurrency_db.db
+2024-10-08 13:16:04,066 - INFO - Data saved to table 'ohlcv_marketcap_data' successfully in 'replace' mode.
+2024-10-08 13:16:04,066 - INFO - Latest data successfully saved to the database.

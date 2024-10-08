@@ -1,0 +1,39 @@
+2024-10-08 13:16:00,281 - INFO - Validating and cleaning data.
+2024-10-08 13:16:00,292 - INFO - Replaced negative values in 'Market Cap' with NA.
+2024-10-08 13:16:00,292 - INFO - Rows set to NA in 'Volume' during cleaning: 1514
+2024-10-08 13:16:00,325 - INFO - Rows forward filled in 'Volume' column: 2
+2024-10-08 13:16:00,331 - INFO - Column 'Market Cap' successfully converted to numeric format.
+2024-10-08 13:16:00,331 - INFO - Column 'Volume' is already in numeric format.
+2024-10-08 13:16:00,331 - INFO - Column 'Open' is already in numeric format.
+2024-10-08 13:16:00,331 - INFO - Column 'High' is already in numeric format.
+2024-10-08 13:16:00,332 - INFO - Column 'Low' is already in numeric format.
+2024-10-08 13:16:00,332 - INFO - Column 'Close' is already in numeric format.
+2024-10-08 13:16:00,332 - INFO - Column 'Date' is already in date format.
+2024-10-08 13:16:00,356 - INFO - No duplicate rows found.
+2024-10-08 13:16:00,356 - INFO - Data cleaning completed.
+2024-10-08 13:16:00,356 - INFO - Rows set to NA in 'Volume': 1514
+2024-10-08 13:16:00,372 - INFO - Rows forward filled in 'Volume': 2
+2024-10-08 13:16:01,051 - INFO - Cleaned data successfully saved to the database.
+2024-10-08 13:16:01,051 - INFO - Cleaning completed successfully.
+2024-10-08 13:18:53,341 - INFO - Validating and cleaning data.
+2024-10-08 13:18:53,341 - INFO - Replaced negative values in 'Market Cap' with NA.
+2024-10-08 13:18:53,345 - INFO - Rows set to NA in 'Volume' during cleaning: 0
+2024-10-08 13:18:53,354 - INFO - Rows forward filled in 'Volume' column: 0
+2024-10-08 13:18:53,356 - INFO - Column 'Market Cap' is already in numeric format.
+2024-10-08 13:18:53,356 - INFO - Column 'Volume' is already in numeric format.
+2024-10-08 13:18:53,356 - INFO - Column 'Open' is already in numeric format.
+2024-10-08 13:18:53,356 - INFO - Column 'High' is already in numeric format.
+2024-10-08 13:18:53,356 - INFO - Column 'Low' is already in numeric format.
+2024-10-08 13:18:53,356 - INFO - Column 'Close' is already in numeric format.
+2024-10-08 13:18:53,356 - INFO - Column 'Date' is already in date format.
+2024-10-08 13:18:53,358 - INFO - No duplicate rows found.
+2024-10-08 13:18:53,358 - INFO - Data cleaning completed.
+2024-10-08 13:18:53,376 - INFO - Rows set to NA in 'Volume': 0
+2024-10-08 13:18:53,376 - INFO - Rows forward filled in 'Volume': 0
+2024-10-08 13:18:53,398 - INFO - Cleaned data successfully saved to the database.
+2024-10-08 13:18:53,398 - INFO - Cleaning completed successfully.
+2024-10-08 13:18:57,795 - INFO - Formatting DataFrame.
+2024-10-08 13:18:57,963 - INFO - Formatted percentage columns.
+2024-10-08 13:18:58,195 - INFO - Formatted numeric columns.
+2024-10-08 13:18:58,225 - INFO - Formatted date column.
+2024-10-08 13:18:58,225 - INFO - DataFrame formatting completed.

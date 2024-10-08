@@ -1,0 +1,18 @@
+2024-10-08 13:16:00,036 - INFO - DatabaseHandler initialized with database URL: C:\Users\46704\Desktop\Kunskapskontroll 2 Python\Project\cryptocurrency_db.db
+2024-10-08 13:16:00,068 - INFO - DatabaseHandler initialized with database URL: C:\Users\46704\Desktop\Kunskapskontroll 2 Python\Project\cryptocurrency_db.db
+2024-10-08 13:16:00,068 - INFO - DatabaseHandler initialized with database URL: C:\Users\46704\Desktop\Kunskapskontroll 2 Python\Project\sqlite:\C:\Users\46704\Desktop\Kunskapskontroll 2 Python\Project\cryptocurrency_db.db
+2024-10-08 13:16:00,277 - INFO - DatabaseHandler initialized with database URL: C:\Users\46704\Desktop\Kunskapskontroll 2 Python\Project\cryptocurrency_db.db
+2024-10-08 13:16:01,051 - INFO - Data saved to table 'ohlcv_marketcap_data' successfully in 'append' mode.
+2024-10-08 13:16:01,051 - INFO - DatabaseHandler initialized with database URL: C:\Users\46704\Desktop\Kunskapskontroll 2 Python\Project\sqlite:\"C:\Users\46704\Desktop\Kunskapskontroll 2 Python\Project\cryptocurrency_db.db
+2024-10-08 13:16:02,449 - INFO - Data saved to table 'ohlcv_marketcap_data' successfully in 'replace' mode.
+2024-10-08 13:16:02,882 - INFO - Data loaded from table 'ohlcv_marketcap_data'.
+2024-10-08 13:16:02,882 - INFO - DatabaseHandler initialized with database URL: C:\Users\46704\Desktop\Kunskapskontroll 2 Python\Project\cryptocurrency_db.db
+2024-10-08 13:16:04,066 - INFO - Data saved to table 'ohlcv_marketcap_data' successfully in 'replace' mode.
+2024-10-08 13:16:06,379 - INFO - DatabaseHandler initialized with database URL: C:\Users\46704\Desktop\Kunskapskontroll 2 Python\Project\cryptocurrency_db.db
+2024-10-08 13:16:06,384 - INFO - DatabaseHandler initialized with database URL: C:\Users\46704\Desktop\Kunskapskontroll 2 Python\Project\cryptocurrency_db.db
+2024-10-08 13:18:53,307 - INFO - Data saved to table 'ohlcv_marketcap_data' successfully in 'append' mode.
+2024-10-08 13:18:53,338 - INFO - DatabaseHandler initialized with database URL: C:\Users\46704\Desktop\Kunskapskontroll 2 Python\Project\cryptocurrency_db.db
+2024-10-08 13:18:53,398 - INFO - Data saved to table 'ohlcv_marketcap_data' successfully in 'append' mode.
+2024-10-08 13:18:57,521 - INFO - DatabaseHandler initialized with database URL: C:\Users\46704\Desktop\Kunskapskontroll 2 Python\Project\sqlite:\"C:\Users\46704\Desktop\Kunskapskontroll 2 Python\Project\cryptocurrency_db.db
+2024-10-08 13:18:58,225 - INFO - DatabaseHandler initialized with database URL: C:\Users\46704\Desktop\Kunskapskontroll 2 Python\Project\cryptocurrency_db.db
+2024-10-08 13:18:59,310 - INFO - Data saved to table 'ohlcv_marketcap_data' successfully in 'replace' mode.
